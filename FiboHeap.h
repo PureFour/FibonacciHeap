@@ -1,0 +1,11 @@
+#ifndef FIBONACCIHEAP_FIBOHEAP_H
+#define FIBONACCIHEAP_FIBOHEAP_H
+
+
+class FiboHeap
+{
+    
+};
+
+
+#endif //FIBONACCIHEAP_FIBOHEAP_H
