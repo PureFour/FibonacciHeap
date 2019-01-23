@@ -8,7 +8,8 @@
 
 _Dlaczego Fibonacciego?_:
     
-    TODO
+    Stopnie węzłów (tutaj stopień oznacza liczbę dzieci) są dość niskie: każdy węzeł ma stopień nie większy niż O(log n).
+    Rozmiar poddrzewa zakorzenionego w węźle stopnia k jest co najmniej Fk+2, gdzie Fk jest k-tą liczbą Fibonacciego. 
    _Zlozonosc_:
    
       Dla kopców Fibonacciego operacja znalezienia minimum zajmuje czas stały (O(1)) w sensie zamortyzowanym. Podobnie jak operacje wstawiania oraz zmniejszania klucza. 
